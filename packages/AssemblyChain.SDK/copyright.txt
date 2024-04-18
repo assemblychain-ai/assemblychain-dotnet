@@ -1,0 +1,6 @@
+Images:
+- assets/assemblychain_logo.png + profile/assets/mkloubert_I_need_a_logo_with_a_white_west_highlanf_terrier_for__d58e45e3-6d3b-4ed0-9aec-055e9a5749cf.png
+  - created by mkloubert (https://github.com/mkloubert) with Midjourney (https://www.midjourney.com/)
+
+- assets/NET_Core_Logo.svg.png
+  - Microsoft (https://microsoft.com/)
